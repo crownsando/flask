@@ -16,3 +16,5 @@ def hello_chae():
 @bp.route('/jjangu')
 def hello_jjangu():
     return f'<b> JJANGGU </b>'
+
+# 바꿈
