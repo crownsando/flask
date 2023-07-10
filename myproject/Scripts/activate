@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\ITStudy\myproject\myproject"
+VIRTUAL_ENV="C:\ITStudy\06_flask\myproject\myproject"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

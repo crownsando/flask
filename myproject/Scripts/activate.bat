@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\ITStudy\myproject\myproject
+set VIRTUAL_ENV=C:\ITStudy\06_flask\myproject\myproject
 
 if not defined PROMPT set PROMPT=$P$G
 
